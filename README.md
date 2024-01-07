@@ -1,0 +1,1 @@
+Currency converter program using exchangerate-Api to allow any user to add a source currency and list of 3 favourite currencies as an input and the user can select any fovourite currency to convert the amount to based on the previous user favourites.
